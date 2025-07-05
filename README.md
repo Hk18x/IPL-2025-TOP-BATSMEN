@@ -38,7 +38,7 @@ Runs are weighted higher in each phase (2× for Powerplay/Middle, 3× for Death)
 
 Dive deeper into the methodology and insights in the full Medium article:
 
-🔗 **[Read on Medium → IPL 2025: Season's Most Impactful XI (Data-Backed)](https://your-medium-link.com)**  
+🔗 **[Read on Medium → https://medium.com/@harshit18mishra/ipl-2025-season-xi-the-most-impactful-players-backed-by-data-6c257535511a ]**
 *(Replace with actual Medium article URL)*
 
 ## 🛠️ Requirements
